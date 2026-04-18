@@ -1,0 +1,26 @@
+.nav-info {
+  padding: 10px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo {
+  width: 150px;
+  height: 55px;
+}
+.side-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.links {
+  display: flex;
+  list-style: none;
+  gap: 30px;
+  margin-bottom:0 ;
+  margin-right: 80px;
+}
+.actions{
+    border: none;
+    background-color: none;
+}
